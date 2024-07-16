@@ -1,4 +1,5 @@
 # SDL2_window_setup
+Setup guide to install SDL2 on Windows with Visual Studio.
 
 ## 1. Download the SDL and SDL_mixer Development Libaries
 1. Go to this page to download the lastest SDL and SDL_mixer VC++ development libaries:

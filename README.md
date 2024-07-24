@@ -13,7 +13,7 @@ Setup guide to install SDL2 on Windows with Visual Studio 2022.
 
 3. Create a folder called `vclib` at C drive (`C:\vclib`).
 
-4. Copy the folders (`SDL2-2.30.5`, `SDL2_mixer-2.8.0`) to `C:\vclib`
+4. Copy the folders (`SDL2-2.30.5`, `SDL2_mixer-2.8.0`, `SDL2_image-2.8.2`) to `C:\vclib`
     - SDL Folder: `SDL2-devel-2.30.5-VC\SDL2-2.30.5`
     - SDL_mixer Folder: `SDL2_mixer-devel-2.8.0-VC\SDL2_mixer-2.8.0`
     - SDL_image Folder: `SDL2_image-devel-2.8.2-VC\SDL2_image-2.8.2`

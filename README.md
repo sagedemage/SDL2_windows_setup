@@ -1,7 +1,7 @@
 # SDL2_window_setup
 Setup guide to install SDL2 on Windows with Visual Studio 2022.
 
-## 1. Download the SDL and SDL_mixer Development Libaries
+## 1. Download the SDL, SDL_mixer, and SDL_image Development Libaries
 1. Go to this page to download the lastest SDL and SDL_mixer VC++ development libaries:
     - https://github.com/libsdl-org/SDL/releases
     - https://github.com/libsdl-org/SDL_mixer/releases
@@ -48,7 +48,7 @@ C:\vclib\SDL2_mixer-2.8.0\lib\x64
 C:\vclib\SDL2-2.30.5\lib\x64
 ```
 
-## 3. Setup Environmental Variables for SDL and SDL_mixer
+## 3. Setup Environmental Variables for SDL, SDL_mixer and SDL_image
 1. Go to Settings -> Search and click *Edit the system environment variables* -> Click *Environment Variables*
 
 2. Edit the **Path** under the *System varables*:
